@@ -1,0 +1,68 @@
+{
+  "tasks": [
+    {
+      "title": "Test Kontrol 1 - Inline Düzenleme",
+      "description": "Kontrol 2",
+      "isCompleted": true,
+      "createdAt": "2025-08-03T16:19:03.047Z",
+      "updatedAt": "2025-08-03T20:50:22.273Z",
+      "id": 2
+    },
+    {
+      "title": "Test Kontrol 2",
+      "description": "Kontrol 3",
+      "isCompleted": true,
+      "createdAt": "2025-08-03T16:21:51.305Z",
+      "updatedAt": "2025-08-03T21:38:49.727Z",
+      "id": 3
+    },
+    {
+      "title": "Test Kontrol 3",
+      "description": "Kontrol 4",
+      "isCompleted": true,
+      "createdAt": "2025-08-03T16:21:59.651Z",
+      "updatedAt": "2025-08-03T20:17:02.493Z",
+      "id": 4
+    },
+    {
+      "title": "Test Kontrol 4",
+      "description": "Kontrol 5",
+      "isCompleted": false,
+      "createdAt": "2025-08-03T16:22:06.227Z",
+      "updatedAt": "2025-08-03T20:04:05.276Z",
+      "id": 5
+    },
+    {
+      "title": "Task Kontrol 5",
+      "description": "Task 7, yükleme spinner ekranı",
+      "isCompleted": false,
+      "createdAt": "2025-08-03T19:20:16.502Z",
+      "updatedAt": "2025-08-03T20:04:13.773Z",
+      "id": 7
+    },
+    {
+      "title": "Task Kontrol 6",
+      "description": "spinner ilgili",
+      "isCompleted": false,
+      "createdAt": "2025-08-03T19:25:46.310Z",
+      "updatedAt": "2025-08-03T20:04:23.763Z",
+      "id": 8
+    },
+    {
+      "title": "Task Kontrol 7",
+      "description": "mobil görünüm modal",
+      "isCompleted": false,
+      "createdAt": "2025-08-03T21:00:59.816Z",
+      "updatedAt": "2025-08-03T21:00:59.816Z",
+      "id": 9
+    },
+    {
+      "title": "Test son kontrol",
+      "description": "Kontrol yapıldı",
+      "isCompleted": false,
+      "createdAt": "2025-08-03T21:38:17.172Z",
+      "updatedAt": "2025-08-03T21:38:17.172Z",
+      "id": 10
+    }
+  ]
+}
