@@ -52,7 +52,7 @@ Bu proje, kullanıcının görev ekleme, düzenleme, tamamlama ve silme işlemle
 ```bash
 # Repository'i klonlayın
 git clone <repository-url>
-cd niltek-yazilim-teknolojileri-task-tracker
+cd niltek-task-tracker
 
 # Bağımlılıkları yükleyin
 npm install
